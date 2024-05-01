@@ -14,9 +14,9 @@ Here are some of the projects I've worked on:
 
 ## Major Projects:
 
-- 🏠 [Airbnb Clone](https://airbnb-major-project-sbjr.onrender.com/listing) - A full-stack clone of the Airbnb website.
-- 🍔 [GoFood App](https://go-food-frontend-9etv.vercel.app/) - A full-stack web application for food ordering and management.
-- 🎥 [Netflix Clone](https://netflix-clone-frontend-blush.vercel.app/) - A clone of the Netflix web player.
+- 🏠 [Airbnb Clone](https://airbnb-major-project-sbjr.onrender.com/listing) - Developed a fully responsive clone of Airbnb using MongoDB, Express.js, Node.js, and EJS. 
+- 🍔 [GoFood App](https://go-food-frontend-9etv.vercel.app/) - Created a full-stack web application for food ordering and management. Implemented user authentication, food browsing, ordering, and order history features.
+- 🎥 [Netflix Clone](https://netflix-clone-frontend-blush.vercel.app/) - Developed a Netflix clone project with features like user authentication, browsing movies, searching for movies, and playing trailers. Utilized Node.js, Express.js, MongoDB Atlas, React.js, Redux, and React Router for development.
   
 ## Mini Projects:
 
