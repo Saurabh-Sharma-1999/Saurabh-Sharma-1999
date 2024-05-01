@@ -12,12 +12,17 @@ I'm Saurabh Sharma, a passionate Full Stack Web Developer currently learning and
 
 Here are some of the projects I've worked on:
 
+## Major Projects:
+
 - 🏠 [Airbnb Clone](https://airbnb-major-project-sbjr.onrender.com/listing) - A full-stack clone of the Airbnb website.
 - 🍔 [GoFood App](https://go-food-frontend-9etv.vercel.app/) - A full-stack web application for food ordering and management.
 - 🎥 [Netflix Clone](https://netflix-clone-frontend-blush.vercel.app/) - A clone of the Netflix web player.
-- 🎮 [Simon Says Game](#) - A simple implementation of the classic Simon Says memory game.
-- 🎵 [Spotify Clone](#) - A clone of the Spotify web player (UI only).
-- 📚 [SideMenuBar](#) - A responsive sidebar menu built using HTML, CSS, and Font Awesome icons.
+  
+## Mini Projects:
+
+- 🎮 [Simon Says Game](https://simon-says-game-one.vercel.app/) - A simple implementation of the classic Simon Says memory game, developed for enhancing JavaScript logic and understanding.
+- 🎵 [Spotify Clone](https://spotify-clone-liart-eight.vercel.app/) - A clone of the Spotify web player (UI only), developed for enhancing and learning the Vanilla CSS properties.
+- 📚 [SideMenuBar](https://sidebar-menu-project.vercel.app/) - A responsive sidebar menu built using HTML, CSS, and Font Awesome icons, developed for enhancing and learning the Vanilla CSS properties.
 
 Feel free to check out my repositories for more projects and contributions! 🌟
 
